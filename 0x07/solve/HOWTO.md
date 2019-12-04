@@ -6,5 +6,5 @@ if ("PyvragFvqrYbtvafNerRnfl@syner-ba.pbz" == rotFlag) {
 } else {
   alert("Incorrect flag, rot again");
 }
-
+```
  Vậy ta decode đoạn mã `PyvragFvqrYbtvafNerRnfl@syner-ba.pbz` sẽ được `ClientSideLoginsAreEasy@flare-on.com`
