@@ -41,7 +41,7 @@
   - [ ] Ex 1
   - [ ] Ex 2
 - [ ] [0x07 - Javascript](0x07)
-  - [ ] Ex 1
+  - [x] Ex 1
   - [ ] Ex 2
   - [ ] Ex 3
 - [ ] [0x08 - Networking](0x08)
